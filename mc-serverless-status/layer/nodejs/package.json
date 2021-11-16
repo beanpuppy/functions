@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "minecraft-server-util": "^4.1.2"
+  }
+}
